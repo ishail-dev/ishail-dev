@@ -34,9 +34,6 @@ Software developer passionate about Software Development and System Design. I en
 - Personal Website: [ishail.dev](https://ishail.dev)
 - Twitter: [@ishail_dev](https://x.com/ishail_dev)
 
-## 👯 Looking to Collaborate On
-I'm interested in collaborating on projects related to [specific areas of interest, e.g., open source, sustainability tech, education tools, etc.]. Feel free to reach out if you have ideas!
-
 ---
 
 ⭐️ From [ishail-dev](https://github.com/ishail-dev)
